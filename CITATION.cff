@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or reference this guide, please cite it as below."
+title: "Agentic AI Payments: An Open Developer Guide"
+version: "1.0.0"
+date-released: 2026-10-02
+license: CC-BY-4.0
+authors:
+  - name: "PinkWallet"
+url: "https://github.com/Pink-Agentic-Payments/agentic-ai-payments"
+keywords:
+  - agentic payments
+  - AI agents
+  - MCP
+  - x402
+  - AP2
+  - Agentic Commerce Protocol
+  - spending controls
