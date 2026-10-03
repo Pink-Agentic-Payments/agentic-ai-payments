@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:07,400
+Your AI agent can already act. Should it also pay?
+
+2
+00:00:07,400 --> 00:00:14,800
+Agentic AI payments: an AI agent requests a payment; your rules decide if it's allowed.
+
+3
+00:00:14,800 --> 00:00:24,200
+The fear: overspend, prompt injection, replayed invoices, leaked card numbers.
+
+4
+00:00:24,200 --> 00:00:32,600
+Pink: the financial approval layer between AI and money.
+
+5
+00:00:32,600 --> 00:00:41,000
+Any AI agent framework connects through the MCP server or REST API - pinkwallet.com/agentic/connect
+
+6
+00:00:41,000 --> 00:00:49,400
+Set rules once, in plain language. Anything uncovered is blocked by default.
+
+7
+00:00:49,400 --> 00:00:58,800
+Worked example: a coffee shop's agent pays a $340 supplier invoice. Three outcomes - allow, ask a person, or block.
+
+8
+00:00:58,800 --> 00:01:06,200
+A single-use credential, locked to one payee and one amount. The agent never sees a card number.
+
+9
+00:01:06,200 --> 00:01:14,600
+Try it free: a public sandbox with test money, no real payments. agentic-sandbox.pinkwallet.com
+
+10
+00:01:14,600 --> 00:01:21,600
+Pink Agentic AI Payments - pinkwallet.com/agentic
