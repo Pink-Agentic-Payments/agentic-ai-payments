@@ -2,6 +2,8 @@
 
 Web version: [pink-agentic-payments.github.io/agentic-ai-payments](https://pink-agentic-payments.github.io/agentic-ai-payments/)
 
+**Watch (80 s):** [Agentic AI Payments, Explained: Let an AI Agent Pay Safely](https://youtu.be/4vES90Srr7o)
+
 **Agentic AI payments are payments an AI agent initiates on a person's or company's behalf — the agent decides what to buy and when, but a separate policy layer (budgets, allowlists, human approval) decides whether the payment actually clears.** This repo is an open, source-linked guide to how that works today: the protocols agents use to pay, the providers that support them, and the controls that keep an agent from spending more than it should — with [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) as a fully worked, runnable example.
 
 Everything here is sourced. Every claim about a provider other than Pink links to that provider's own documentation, with a verbatim quote and an access date, pulled from two open datasets this org also publishes (see [Providers](#providers) below). Nothing here is paid placement — entries are selected on relevance, including competitors.
