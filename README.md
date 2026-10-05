@@ -151,6 +151,7 @@ With the mechanisms in [Controlling agent spending](#controlling-agent-spending)
 - [agent-spending-policy](https://github.com/Pink-Agentic-Payments/agent-spending-policy) — the draft vendor-neutral policy schema
 - [sandbox-examples](https://github.com/Pink-Agentic-Payments/sandbox-examples) — runnable code against Pink's sandbox
 - [awesome-agentic-payments](https://github.com/Pink-Agentic-Payments/awesome-agentic-payments) — the curated link list this guide draws its protocol/provider links from
+- [AI Agent Spending Incidents Log](https://github.com/Pink-Agentic-Payments/agent-spending-incidents): sourced, dated cases of AI agents overspending or being manipulated into paying (CC BY 4.0).
 
 ## Conflict of interest
 
