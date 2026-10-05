@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:06,500
+Pink Agentic AI Payments: the approval layer between AI and money
+
+2
+00:00:06,500 --> 00:00:14,500
+Sandbox endpoint: agentic-sandbox.pinkwallet.com/mcp - test money only
+
+3
+00:00:14,500 --> 00:00:22,500
+Limits live on the server. Not in the agent's prompt.
+
+4
+00:00:22,500 --> 00:00:30,500
+$420 to Counter Culture Coffee: ALLOWED, rule "Small supply orders go through"
+
+5
+00:00:30,500 --> 00:00:39,000
+$890 to Counter Culture Coffee: ASK A PERSON, rule "Bigger supply orders: store manager checks"
+
+6
+00:00:39,000 --> 00:00:46,500
+$60 to Instant Gift Cards Co: BLOCKED, rule "Never: gift cards, cash-like, crypto"
+
+7
+00:00:46,500 --> 00:00:54,000
+The agent never holds a card number or a bank login - test money
+
+8
+00:00:54,000 --> 00:01:07,000
+Try it free with test money: agentic-sandbox.pinkwallet.com
