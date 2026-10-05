@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:09,000
+x402 vs AP2 vs ACP: which agent payment protocol? Three specs, three different jobs.
+
+2
+00:00:09,000 --> 00:00:22,000
+x402 (Coinbase, now x402 Foundation): HTTP 402, pay-per-request, on-chain stablecoin settlement.
+
+3
+00:00:22,000 --> 00:00:35,000
+AP2 (Google, now FIDO Alliance): signed Intent and Cart Mandates prove what the user authorized.
+
+4
+00:00:35,000 --> 00:00:48,000
+ACP (OpenAI and Stripe): buyer approves checkout in chat, merchant stays merchant of record.
+
+5
+00:00:48,000 --> 00:01:05,000
+Side by side: settlement, authorization model and who leads each protocol, as officially stated today.
+
+6
+00:01:05,000 --> 00:01:18,000
+What none of them decides: per-agent budgets, approval on anything unusual, blocked categories.
+
+7
+00:01:18,000 --> 00:01:33,000
+Pink Agentic AI Payments checks every payment an agent asks to make against your rules before it executes: allow, ask a human, or block.
+
+8
+00:01:33,000 --> 00:01:44,000
+Try the sandbox with test money: agentic-sandbox.pinkwallet.com. Full comparison: pinkwallet.com/agentic/learn/x402-vs-ap2-vs-acp/
