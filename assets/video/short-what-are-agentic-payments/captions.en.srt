@@ -23,7 +23,7 @@ $420 supplies: ALLOWED. $890: ASK A PERSON
 
 6
 00:00:29,000 --> 00:00:36,000
-The agent never holds your payment key. It gets a
+The agent never holds a standing card or your account keys. It gets a
 single-use credential locked to one payee and amount.
 
 7

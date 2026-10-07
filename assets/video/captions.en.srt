@@ -28,7 +28,7 @@ Worked example: a coffee shop's agent pays a $340 supplier invoice. Three outcom
 
 8
 00:00:58,800 --> 00:01:06,200
-A single-use credential, locked to one payee and one amount. The agent never sees a card number.
+A single-use credential, locked to one payee and one amount, that expires in fifteen minutes.
 
 9
 00:01:06,200 --> 00:01:14,600

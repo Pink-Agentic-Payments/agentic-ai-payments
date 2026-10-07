@@ -24,7 +24,7 @@ $60 to Instant Gift Cards Co: BLOCKED, rule "Never: gift cards, cash-like, crypt
 
 7
 00:00:46,500 --> 00:00:54,000
-The agent never holds a card number or a bank login - test money
+The agent never holds a standing card number or bank login - test money
 
 8
 00:00:54,000 --> 00:01:07,000
